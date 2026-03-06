@@ -4,7 +4,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM-FF6F00)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-00A86B)
-![Dataset](https://img.shields.io/badge/Dataset-IMDB%2050K-8A2BE2)
+![Dataset](https://img.shields.io/badge/Dataset-IMDB--50K-purple)
 ![Project](https://img.shields.io/badge/Project-Completed-2ECC71)
 
 ## Project Overview
