@@ -1,4 +1,7 @@
 # Deep Learning Sentiment Analysis
+Deep Learning Sentiment Analysis
+
+[Python] [Deep Learning] [TensorFlow] [NLP] [Dataset] [Project Completed]
 
 Deep learning NLP model for sentiment classification using **Bidirectional LSTM** on the **IMDB movie reviews dataset**.
 
