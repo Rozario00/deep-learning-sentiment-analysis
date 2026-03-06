@@ -1,7 +1,16 @@
 # Deep Learning Sentiment Analysis
-Deep Learning Sentiment Analysis
 
-[Python] [Deep Learning] [TensorFlow] [NLP] [Dataset] [Project Completed]
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM-FF6F00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-00A86B)
+![Dataset](https://img.shields.io/badge/Dataset-IMDB%2050K-8A2BE2)
+![Project](https://img.shields.io/badge/Project-Completed-2ECC71)
+
+## Project Overview
+
+This project builds a deep learning model using **Bidirectional LSTM** to classify movie reviews as **positive or negative** based on the IMDB dataset.  
+The model processes textual data using NLP techniques and learns sentiment patterns from movie reviews.
 
 Deep learning NLP model for sentiment classification using **Bidirectional LSTM** on the **IMDB movie reviews dataset**.
 
@@ -35,3 +44,10 @@ Deep learning NLP model for sentiment classification using **Bidirectional LSTM*
 ## Model Training Accuracy
 
 ![Training Accuracy](accuracy_graph.png)
+
+## Project Structure
+deep-learning-sentiment-analysis
+│
+├── sentiment_analysis_lstm.ipynb
+├── accuracy_graph.png
+└── README.md
